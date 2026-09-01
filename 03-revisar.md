@@ -1,8 +1,6 @@
 # Repositorios Originales para Revisar
 Generado el: Tue Sep  1 09:44:02 AM CEST 2026
 
-- [https://github.com/relay-integrations/relay-oci-compute](https://github.com/relay-integrations/relay-oci-compute) (Fork: Bryxxit/relay-oci-compute-relayfork)
-- [https://github.com/ICT-Strategie/vertigo](https://github.com/ICT-Strategie/vertigo) (Fork: Bryxxit/vertigo)
 - [https://github.com/renovatebot/docker-renovate-full](https://github.com/renovatebot/docker-renovate-full) (Fork: elserhumano/docker-renovate-full)
 - [https://github.com/olberger/docker-teams-linux](https://github.com/olberger/docker-teams-linux) (Fork: elserhumano/docker-teams-linux)
 - [https://github.com/cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) (Fork: elserhumano/dockerscan)

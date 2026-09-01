@@ -1,8 +1,6 @@
 # Repositorios Originales para Revisar
 Generado el: Tue Sep  1 09:30:26 AM CEST 2026
 
-- [https://github.com/relay-integrations/relay-oci-compute](https://github.com/relay-integrations/relay-oci-compute) (Fork: Bryxxit/relay-oci-compute-relayfork)
-- [https://github.com/ICT-Strategie/vertigo](https://github.com/ICT-Strategie/vertigo) (Fork: Bryxxit/vertigo)
 - [https://github.com/puppetlabs/abide_dev_utils](https://github.com/puppetlabs/abide_dev_utils) (Fork: elserhumano/abide_dev_utils)
 - [https://github.com/AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) (Fork: elserhumano/AI-Expert-Roadmap)
 - [https://github.com/air-verse/air](https://github.com/air-verse/air) (Fork: elserhumano/air)

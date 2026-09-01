@@ -1,8 +1,6 @@
 # Repositorios Originales para Revisar
 Generado el: Tue Sep  1 09:39:18 AM CEST 2026
 
-- [https://github.com/relay-integrations/relay-oci-compute](https://github.com/relay-integrations/relay-oci-compute) (Fork: Bryxxit/relay-oci-compute-relayfork)
-- [https://github.com/ICT-Strategie/vertigo](https://github.com/ICT-Strategie/vertigo) (Fork: Bryxxit/vertigo)
 - [https://github.com/bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) (Fork: elserhumano/bottlerocket)
 - [https://github.com/carolynvs/brigdrake](https://github.com/carolynvs/brigdrake) (Fork: elserhumano/brigdrake)
 - [https://github.com/aristocratos/btop](https://github.com/aristocratos/btop) (Fork: elserhumano/btop)

@@ -1,8 +1,6 @@
 # Repositorios Originales para Revisar
 Generado el: Tue Sep  1 10:04:42 AM CEST 2026
 
-- [https://github.com/relay-integrations/relay-oci-compute](https://github.com/relay-integrations/relay-oci-compute) (Fork: Bryxxit/relay-oci-compute-relayfork)
-- [https://github.com/ICT-Strategie/vertigo](https://github.com/ICT-Strategie/vertigo) (Fork: Bryxxit/vertigo)
 - [https://github.com/golang-standards/project-layout](https://github.com/golang-standards/project-layout) (Fork: elserhumano/project-layout)
 - [https://github.com/prometheus/prometheus](https://github.com/prometheus/prometheus) (Fork: elserhumano/prometheus)
 - [https://github.com/example42/psick](https://github.com/example42/psick) (Fork: elserhumano/psick)

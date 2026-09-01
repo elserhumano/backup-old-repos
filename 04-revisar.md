@@ -1,8 +1,6 @@
 # Repositorios Originales para Revisar
 Generado el: Tue Sep  1 09:48:46 AM CEST 2026
 
-- [https://github.com/relay-integrations/relay-oci-compute](https://github.com/relay-integrations/relay-oci-compute) (Fork: Bryxxit/relay-oci-compute-relayfork)
-- [https://github.com/ICT-Strategie/vertigo](https://github.com/ICT-Strategie/vertigo) (Fork: Bryxxit/vertigo)
 - [https://github.com/kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) (Fork: elserhumano/kubeedge)
 - [https://github.com/kubernetes-retired/kubefed](https://github.com/kubernetes-retired/kubefed) (Fork: elserhumano/kubefed)
 - [https://github.com/kubenav/kubenav](https://github.com/kubenav/kubenav) (Fork: elserhumano/kubenav)
